@@ -51,6 +51,12 @@ h1 {
     margin-bottom: 1.5em;
 }
 
+.preview-access {
+    font-size: 0.8rem;
+    color: #1A73E8;
+    margin-bottom: 1.5em;
+}
+
 .button {
     display: inline-block;
     background-color: #1A73E8;
